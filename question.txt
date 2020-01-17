@@ -1,0 +1,35 @@
+1
+11/23/2019
+0
+what does an if else statement do?
+|
+2
+11/04/2019
+1
+what is a while condition?
+|
+3
+11/01/2019
+2
+what is the access operator?
+|
+4
+11/23/2019
+0
+what is an else statement for?
+|
+5
+11/03/2019
+2
+where is a prototype defined?
+|
+6
+11/12/2016
+1
+what should you not do inside of a loop?
+|
+7
+11/12/2019
+5
+what library do you use to read files?
+|
